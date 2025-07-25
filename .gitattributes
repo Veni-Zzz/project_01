@@ -1,0 +1,2 @@
+task_4.py filter=lfs diff=lfs merge=lfs -text
+task1[[:space:]]Veni-Zzz filter=lfs diff=lfs merge=lfs -text
